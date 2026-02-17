@@ -233,7 +233,7 @@ export default function ComparePage() {
       <div>
         <div
           style={{
-            backgroundColor: "#4a6cf7",
+            backgroundColor: "#ffffff",
             borderRadius: "0.75rem",
             padding: "0.75rem",
             display: "flex",
