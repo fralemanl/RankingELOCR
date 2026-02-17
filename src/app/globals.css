@@ -20,10 +20,10 @@ html {
 body {
   background: linear-gradient(
     to bottom,
-    rgb(241, 245, 249),
-    rgb(226, 232, 240)
+    rgb(68, 10, 35),
+    rgb(133, 75, 93)
   );
-  color: rgb(15, 23, 42);
+  color: rgb(42, 15, 24);
   font-family:
     "Segoe UI", "Roboto", "Helvetica Neue", "Inter", system-ui, sans-serif;
   font-weight: 300;
@@ -48,7 +48,7 @@ select {
 
 select:focus {
   outline: none;
-  border-color: rgb(6, 182, 212);
+  border-color: rgb(212, 6, 64);
   box-shadow: 0 0 0 3px rgba(6, 182, 212, 0.1);
 }
 
