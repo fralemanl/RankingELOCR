@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Ranking Nacional de Panamá",
-  description: "Ranking oficial de jugadores de pádel en Panamá",
+  title: "Ranking Nacional de Costa Rica",
+  description: "Ranking oficial de jugadores de pádel en Costa Rica",
 };
 
 export default function RootLayout({ children }) {
@@ -25,14 +25,14 @@ export default function RootLayout({ children }) {
           <div style={{
             position: 'absolute',
             inset: 0,
-            background: 'linear-gradient(to right, rgba(8, 145, 178, 0.65), rgba(6, 182, 212, 0.55))',
+            background: 'linear-gradient(to right, rgba(336, 64, 63, 0.65), rgba(336, 64, 63, 0.55))',
           }} />
           <div style={{ maxWidth: '80rem', margin: '0 auto', padding: '1.5rem 1rem', position: 'relative' }}>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.5rem' }}>
-                <h1 style={{ fontSize: '2.25rem', fontWeight: 'bold', letterSpacing: '-0.02em' }}>Ranking Nacional de Panamá</h1>
+                <h1 style={{ fontSize: '2.25rem', fontWeight: 'bold', letterSpacing: '-0.02em' }}>Ranking Nacional de Costa Rica</h1>
               </div>
-              <p style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '0.875rem', fontWeight: '500' }}>Panamá 🇵🇦</p>
+              <p style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '0.875rem', fontWeight: '500' }}>Costa Rica</p>
             </div>
           </div>
         </header>
@@ -47,13 +47,13 @@ export default function RootLayout({ children }) {
               <div>
                 <h3 style={{ fontSize: '1.125rem', fontWeight: '600', marginBottom: '1rem' }}>Ranking Pádel</h3>
                 <p style={{ color: 'rgb(148, 163, 184)', fontSize: '0.875rem' }}>
-                  Ranking oficial de los mejores jugadores de pádel en Panamá.
+                  Ranking oficial de los mejores jugadores de pádel en Costa Rica.
                 </p>
               </div>
               <div>
                 <h3 style={{ fontSize: '1.125rem', fontWeight: '600', marginBottom: '1rem' }}>Contacto</h3>
                 <p style={{ color: 'rgb(148, 163, 184)', fontSize: '0.875rem' }}>
-                  Email: info@rankingpadel.pa
+                  Email: info@rankingpadel.cr
                 </p>
               </div>
               <div>
@@ -65,7 +65,7 @@ export default function RootLayout({ children }) {
             </div>
             <div style={{ borderTop: '1px solid rgb(30, 41, 59)', paddingTop: '2rem' }}>
               <p style={{ color: 'rgb(148, 163, 184)', textAlign: 'center', fontSize: '0.875rem' }}>
-                &copy; 2025 Ranking de Pádel Panamá. Todos los derechos reservados.
+                &copy; 2026 Ranking de Pádel Costa Rica. Todos los derechos reservados.
               </p>
             </div>
           </div>
