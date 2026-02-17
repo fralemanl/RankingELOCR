@@ -345,7 +345,7 @@ export default function ComparePage() {
       style={{
         minHeight: "100vh",
         background:
-          "linear-gradient(to bottom, rgb(0, 0, 0) 0%, rgb(219, 234, 254) 50%, rgb(226, 232, 240) 100%)",
+          "linear-gradient(to bottom, rgb(0, 0, 0) 0%, rgb(0,0, 0) 50%, rgb(0, 0, 0) 100%)",
         padding: "2.5rem 1rem",
       }}
     >
