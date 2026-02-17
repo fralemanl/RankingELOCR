@@ -25,14 +25,14 @@ export default function RootLayout({ children }) {
           <div style={{
             position: 'absolute',
             inset: 0,
-            background: 'linear-gradient(to right, rgba(336, 64, 63, 0.15), rgba(336, 64, 63, 0.25))',
+            background: 'linear-gradient(to right, rgba(336, 64, 63, 0), rgba(336, 64, 63, 0))',
           }} />
           <div style={{ maxWidth: '80rem', margin: '0 auto', padding: '1.5rem 1rem', position: 'relative' }}>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0.5rem' }}>
                 <h1 style={{ fontSize: '2.25rem', fontWeight: 'bold', letterSpacing: '-0.02em' }}>Ranking Nacional de Costa Rica</h1>
               </div>
-              <p style={{ color: 'rgba(255, 255, 255, 0.7)', fontSize: '0.875rem', fontWeight: '500' }}>Costa Rica</p>
+              <p style={{ color: 'rgba(255, 255, 255, 0)', fontSize: '0.875rem', fontWeight: '500' }}>Costa Rica</p>
             </div>
           </div>
         </header>
