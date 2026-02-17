@@ -233,7 +233,7 @@ export default function ComparePage() {
       <div>
         <div
           style={{
-            backgroundColor: "#ffffff",
+            backgroundColor: "#4a6cf7",
             borderRadius: "0.75rem",
             padding: "0.75rem",
             display: "flex",
@@ -345,7 +345,7 @@ export default function ComparePage() {
       style={{
         minHeight: "100vh",
         background:
-          "linear-gradient(to bottom, rgb(241, 245, 249) 0%, rgb(219, 234, 254) 50%, rgb(226, 232, 240) 100%)",
+          "linear-gradient(to bottom, rgb(0, 0, 0) 0%, rgb(219, 234, 254) 50%, rgb(226, 232, 240) 100%)",
         padding: "2.5rem 1rem",
       }}
     >
