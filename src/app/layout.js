@@ -25,7 +25,7 @@ export default function RootLayout({ children }) {
           <div style={{
             position: 'absolute',
             inset: 0,
-            background: 'linear-gradient(to right, rgba(336, 64, 63, 0.65), rgba(336, 64, 63, 0.55))',
+            background: 'linear-gradient(to right, rgba(336, 64, 63, 0.15), rgba(336, 64, 63, 0.25))',
           }} />
           <div style={{ maxWidth: '80rem', margin: '0 auto', padding: '1.5rem 1rem', position: 'relative' }}>
             <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
