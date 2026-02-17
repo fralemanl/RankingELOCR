@@ -88,7 +88,7 @@ export default function RankingTable({ players, allPlayers = [], category }) {
     },
     thead: {
       background:
-        "linear-gradient(to right, rgb(6, 182, 212), rgb(139, 92, 246))",
+        "linear-gradient(to right, rgb(0, 0, 0), rgb(139, 92, 246))",
       color: "white",
       borderBottom: "4px solid rgb(8, 145, 178)",
     },
